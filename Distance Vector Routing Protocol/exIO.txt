@@ -1,0 +1,14 @@
+Enter the number of routers: 3
+Enter links in the format: <source> <destination> <cost> (enter -1 -1 -1 to finish):
+0 1 2
+0 2 5
+1 2 1
+-1 -1 -1
+Initial Distance Vectors:
+Router 0 Distance Vector: 0 2 5 
+Router 1 Distance Vector: INF 0 1 
+Router 2 Distance Vector: INF INF 0 
+Updated Distance Vectors:
+Router 0 Distance Vector: 0 2 3 
+Router 1 Distance Vector: 0 0 1 
+Router 2 Distance Vector: 0 0 0 

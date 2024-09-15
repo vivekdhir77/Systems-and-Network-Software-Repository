@@ -1,0 +1,15 @@
+Task: Read Sensor
+  Total time: 541648 microseconds
+  Call count: 10
+  Average time: 54164 microseconds
+
+Task: Process Data
+  Total time: 1044670 microseconds
+  Call count: 10
+  Average time: 104467 microseconds
+
+Task: Update Display
+  Total time: 783928 microseconds
+  Call count: 10
+  Average time: 78392 microseconds
+
